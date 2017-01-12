@@ -1,6 +1,6 @@
 {
   "name": "plask-wrap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plask wrapper for browserify",
   "main": "index.js",
   "license": "MIT",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/vorg/plask-wrap/issues"
   },
-  "browser" : "index-browser.js"
+  "browser": "index-browser.js"
 }
